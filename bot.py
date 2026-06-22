@@ -1,5 +1,4 @@
-# 1. INSTALAR A BIBLIOTECA DE TRADING
-!pip install ccxt pandas
+
 
 import ccxt
 import pandas as pd
